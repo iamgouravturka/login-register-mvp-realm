@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login-register-mvp-relam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_here">new User Register Here</string>
+    <string name="first_name">First Name</string>
+    <string name="register">Register</string>
+    <string name="last_name">Last Name</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="relam_db_name">mvp_app_2.realm</string>
+    <string name="logout">Logout</string>
+</resources>
